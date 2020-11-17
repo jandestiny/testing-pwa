@@ -1,0 +1,30 @@
+{
+    "name": "Recap lecture 1",
+    "short_name": "recap",
+    "orientation": "portrait-primary",
+    "start_url": ".",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "images/KlickiBunti-48x48.png",
+            "type": "image/png",
+            "sizes": "48x48"
+        },
+        {
+            "src": "images/KlickiBunti-96x96.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "images/KlickiBunti-180x180.png",
+            "type": "image/png",
+            "sizes": "180x180"
+        },
+        {
+            "src": "images/KlickiBunti-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        }
+    ],
+    "background_color": "#ccc"
+}
