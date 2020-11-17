@@ -26,11 +26,11 @@ self.addEventListener("install", (event) =>
         caches.open("static")
             .then((cacheObj) =>
             {
-                cacheObj.addAll([
-                    "/",
-                    "/index.html",
-                    "/images/KlickiBunti-192x192.png"
-                ])
+                // cacheObj.addAll([
+                //     "./",
+                //     "./index.html",
+                //     "./images/KlickiBunti-192x192.png"
+                // ])
             }))
 })
 
